@@ -1,4 +1,6 @@
-// QUESTION TITLE
+/* QUESTION TITLE : 
+    Program to find minimum and maximum element in an array
+*/
 
 
 // SIMPLE APPROACHES
