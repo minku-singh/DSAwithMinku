@@ -36,7 +36,7 @@ int findMin(int Arr[], int n)
     {
         return min(Arr[0], findMin(Arr+1, n-1)); 
 
-        /* Observation(May be wrong) : 
+        /* Observation(Might be wrong) : 
         1) While calling recursive function, we are decreasing n i.e (n-1) to reach to the base case, so while writing    the recursive function, we can follow this trick.
         2) As the answer of base case, we are returning Arr[0], so our argument in the recursive function should also change accordingly.
         */
