@@ -2,7 +2,7 @@
 🐰 06-07-21 Path to DSA mastery - HOPE
 
 ## 🐰Basic Data Strcutures : Arrays, Linked Lists, Stacks, Queues, 
-- [Array]()
+- [Arrays GFG](https://www.geeksforgeeks.org/array-data-structure/)
 
 ## 🐰Basic Math Operations (addition, multiplication, division, exponentiation)
 
