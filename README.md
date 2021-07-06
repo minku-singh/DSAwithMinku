@@ -3,7 +3,7 @@
 
 - There might be some mistakes, dekh ke maaf kar dijiyega aur LinkedIn pe dm kariyega ,sudhaar denge!! (Git kum aata hai humko😉)
 
-## 🐰Basic Data Strcutures : Arrays, Linked Lists, Stacks, Queues
+## 🐰Basic Data Structures : Arrays, Linked Lists, Stacks, Queues
 - ### Arrays (06-07-21)
      - [Arrays GFG](https://www.geeksforgeeks.org/array-data-structure/)
      - [Difficulty wise Array Questions GFG](https://www.geeksforgeeks.org/top-50-array-coding-problems-for-interviews/)
