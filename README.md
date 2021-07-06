@@ -22,4 +22,6 @@
 
 ### 🐰Binary Searching
 
-###
+#### 🐰ME
+- [LinkedIn](https://www.linkedin.com/in/minku-singh%F0%9F%90%B0-2943a51a5/)
+- [Twitter](https://twitter.com/minkusingh_)
