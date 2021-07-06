@@ -1,8 +1,10 @@
 # DSAwithMinku
 🐰 06-07-21 Path to DSA mastery - HOPE
 
-## 🐰Basic Data Strcutures : Arrays, Linked Lists, Stacks, Queues, 
-- [Array]()
+## 🐰Basic Data Strcutures : Arrays, Linked Lists, Stacks, Queues
+- ### Arrays (06-07-21)
+     - [Arrays GFG](https://www.geeksforgeeks.org/array-data-structure/)
+     - [Difficulty wise Array Questions GFG](https://www.geeksforgeeks.org/top-50-array-coding-problems-for-interviews/)
 
 ## 🐰Basic Math Operations (addition, multiplication, division, exponentiation)
 
