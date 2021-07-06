@@ -1,27 +1,27 @@
 # DSAwithMinku
 🐰 06-07-21 Path to DSA mastery - HOPE
 
-### 🐰Basic Data Strcutures : Arrays, Linked Lists, Stacks, Queues, 
+## 🐰Basic Data Strcutures : Arrays, Linked Lists, Stacks, Queues, 
 - [Array]()
 
-### 🐰Basic Math Operations (addition, multiplication, division, exponentiation)
+## 🐰Basic Math Operations (addition, multiplication, division, exponentiation)
 
-### 🐰Sqrt(n) Primality testing
+## 🐰Sqrt(n) Primality testing
 
-### 🐰Euclid's GCD Algorithm
+## 🐰Euclid's GCD Algorithm
 
-### 🐰Basic Recursion
+## 🐰Basic Recursion
 
-### 🐰Greedy Algorithms
+## 🐰Greedy Algorithms
 
-### 🐰Basic Dynamic Programming
+## 🐰Basic Dynamic Programming
 
-### 🐰Naive String Searching
+## 🐰Naive String Searching
 
-### 🐰O(nlogn) Sorting
+## 🐰O(nlogn) Sorting
 
-### 🐰Binary Searching
+## 🐰Binary Searching
 
-#### 🐰ME
+## 🐰ME
 - [LinkedIn](https://www.linkedin.com/in/minku-singh%F0%9F%90%B0-2943a51a5/)
 - [Twitter](https://twitter.com/minkusingh_)
