@@ -1,7 +1,7 @@
 # DSAwithMinku
 🐰 06-07-21 Path to DSA mastery - HOPE
 
-- There might be some mistakes, dekh ke maaf kar dijiyega aur LinkedIn pe dm kariyega ,sudhaar denge!! (Git kum aata hai humko😉)
+- I am a Learner myself, so there might be some mistakes. Correct me, if any.
 
 ## 🐰Basic Data Structures : Arrays, Linked Lists, Stacks, Queues
 - ### Arrays (06-07-21)
