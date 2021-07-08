@@ -14,6 +14,7 @@
 - ### Strings (08-07-21)
      - [Strings Tutorialspoint](https://www.tutorialspoint.com/cplusplus/cpp_strings.htm)
      - [Strings GFG](https://www.geeksforgeeks.org/string-data-structure/)
+     - [Strings GFG basic questions](https://www.geeksforgeeks.org/string-data-structure/#basics)
 
 ## 🐰Basic Math Operations (addition, multiplication, division, exponentiation)
 
